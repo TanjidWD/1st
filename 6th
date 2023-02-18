@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MD Tanjid</title>
+    <style>
+        body{background-color: antiquewhite;}
+        </style>
+</head>
+
+<body>
+
+<h1 style="text-align;color: black;"> about me </h1><hr>
+<h2 align="">Tanjid</h2>
+<h3 align="right">17.2.2023</h3><br/>
+<P align="justify"><i>My name is Tanjid and I’m 15 years old. My birthday is on 7th February, so I will  be  16 next February!!!
+
+    I live in Boston with my parents. I haven’t got any brothers or sisters. I’m an only child. My father’s name is Peter and he is 47 years old. My mother’s name is Linda and she is 49 years old.  She is a  teacher at Western High School, the same school I go to.  I am in Year 10. I don’t mind school, but I hate doing homework!
+   
+    I am a very sporty peson, I do gymnastics and I go swimming twice a week.  I also love dancing. In my free time I like going out with my friends and I really like going to the cinema.  I love music, too. I can play the guitar and the piano. My favourite singers are Dani Martín, Jason Mraz and Bruno Mars.</i></P>
+    <p><i>This is me!!</i>></p>
+   power By<sup>Tanjid</sup><br/0>
+   H<sub>2</sub>O
+   <img src="IMG_20221222_155409_157 (1).jpg"width=255 height=300><br/>
+   <h3 style="text-align: center; color: rgba(0, 0, 0, .5);">My Photo</h3>
+
+
+
+   
+    
+</body>
+
+
+</html>
